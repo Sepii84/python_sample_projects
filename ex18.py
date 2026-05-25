@@ -1,6 +1,6 @@
 # course enrollment system with JSON persistence.
-import json
 
+import json
 
 class Student:
     def __init__(self, student_id, name, age):
