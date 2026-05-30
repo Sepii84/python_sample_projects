@@ -502,7 +502,7 @@ def main():
                 save_to_json(results)
             case 8:
                 print("Goodbye!")
-                return
+                break
             case _:
                 print("Invalid choice! choose between 1 and 8.")
 
