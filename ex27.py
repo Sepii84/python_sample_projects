@@ -394,7 +394,7 @@ class BankRepository:
                 row[2],
                 row[3],
                 row[4],
-                row[5],
+                row[5]
             ))
         return transactions
 
